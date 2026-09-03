@@ -1,0 +1,4 @@
+mpxj
+openpyxl
+JPype1
+streamlit
